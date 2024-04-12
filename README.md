@@ -1,5 +1,5 @@
 # Aulas JA Encantado
 
-projetos realizados em aulas do curso JA Encantado
+Projetos realizados em aulas do curso JA Encantado
 
-aulasa de programacao
+Aulas de programação
